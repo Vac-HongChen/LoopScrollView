@@ -1,5 +1,7 @@
 # LoopScrollView
 LoopScrollView-Unity
+
+https://blog.csdn.net/wanghao1230707/article/details/116712132
     循环列表
     -- 格子大小一致的循环列表
     -- 通过Template的大小以及Content的大小计算最多需要创建多少个格子
